@@ -14,3 +14,8 @@ puts irrational[-1]
 
 puts stocked[2]
 # true
+
+xzibit = [[1, 2, 3, 4], [2, 4, 6, 8,], [3, 6, 9, 12], [4, 8, 16, 20]]
+p xzibit
+# I heard you like arrays so I put arrays in your arrays
+puts xzibit[3][-1]
